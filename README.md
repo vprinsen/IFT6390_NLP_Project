@@ -1,7 +1,7 @@
 ## IFT6390 Final Project (submitted December 22, 2017) 
 # Sentiment Analysis of Consumer Reviews Within and Across Product Categories
 
-Full paper:  [IFT6390_Final_Paper.pdf](IFT6390_Final_Paper.pdf)
+Full paper:  Available on request
 
 ### Acknowledgements
 **Vanessa Prinsen**   
